@@ -4,6 +4,6 @@ category-encoders==2.6.3
 lightgbm==4.1.0
 matplotlib
 seaborn
-datasist
+datasist==0.1
 streamlit==1.27.1
 numpy==1.26.0
