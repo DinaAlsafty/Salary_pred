@@ -1,0 +1,9 @@
+scikit-learn==1.3.2
+sklearn-features==0.0.2
+category-encoders==2.6.3
+lightgbm==4.1.0
+matplotlib
+seaborn
+datasist
+streamlit==1.27.1
+numpy==1.26.0
